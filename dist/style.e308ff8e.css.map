@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":[".highlight {\r\n    box-shadow: 0 0 5px rgb(112, 194, 132);\r\n}\r\n\r\n.post {\r\n    width: 50%;\r\n    padding: 10px; \r\n}\r\n\r\n"]}
