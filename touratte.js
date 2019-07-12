@@ -1,6 +1,6 @@
 
-let maxTextSize = 50;
-let minTextSize = 5;
+let maxTextSize = 150;
+let minTextSize = 30;
 
 const authorsList = [
     {

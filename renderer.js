@@ -11,6 +11,8 @@ document.addEventListener("shout", (event) => {
     post.innerHTML = `<h3>${event.detail.author}</h3>
                       <p>${event.detail.text}</p>`;
     post.classList.add('highlight');
+    post.classList.add('with-border');
+    list.classList.add('with-border');
     setTimeout(() => {
         post.classList.remove('highlight');
     }, 1000);
